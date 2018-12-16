@@ -1,0 +1,3 @@
+this is new file
+this is change 1
+this is first change diff command explore
